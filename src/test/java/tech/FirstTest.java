@@ -13,7 +13,7 @@ public class FirstTest {
 
     public static WebDriver driver;
     private String correctMail = "correctMail@mail.ru";
-    private String correctPassword = "correctPassword1";
+    private String correctPassword = "correctPassword";
 
 
     @Before
